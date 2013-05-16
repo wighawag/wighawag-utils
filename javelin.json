@@ -1,0 +1,13 @@
+{
+  "name": "wighawag-utils",
+  "url" : "https://github.com/wighawag/wighawag-utils/",
+  "license": "Wighawag",
+  "licenseFile": "LICENSE.txt",
+  "tags": ["cross", "debug"],
+  "description": "Some tools that could not fit anywhere else",
+  "version": "0.0.1",
+  "contributors": ["wighawag"],
+  "dependencies": {"wighawag-report":"*"},
+  "classPaths": ["src"],
+  "targets": ["js", "swf", "cpp", "neko"]
+}

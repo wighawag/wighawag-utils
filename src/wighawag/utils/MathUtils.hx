@@ -1,4 +1,4 @@
-package com.wighawag.utils;
+package wighawag.utils;
 class MathUtils {
     inline public static function nextPowerOfTwo(n : Int) : Int {
 	    if (n < 0){

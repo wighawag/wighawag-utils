@@ -1,4 +1,4 @@
-package com.wighawag.utils;
+package wighawag.utils;
 
 class StringUtils {
 
