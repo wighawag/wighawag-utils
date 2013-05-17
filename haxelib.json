@@ -4,7 +4,7 @@
   "license": "Wighawag",
   "tags": ["cross","debug"],
   "description": "Some tools that could not fit anywhere else",
-  "version": "null",
+  "version": "0.0.1",
   "releasenote": "",
   "contributors": ["wighawag"],
   "dependencies": {"wighawag-report":""}
