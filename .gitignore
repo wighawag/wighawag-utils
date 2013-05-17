@@ -3,8 +3,6 @@
 haxelib/
 test-build/
 test-report/
-test/TestMain.hx
-test/TestSuite.hx
 .idea/
 *.iml
 tags
