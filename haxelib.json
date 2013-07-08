@@ -1,12 +1,12 @@
 {
   "name": "wighawag-utils",
   "url" : "https://github.com/wighawag/wighawag-utils/",
-  "license": "Wighawag",
+  "license": "GPL",
   "tags": ["cross","debug"],
   "description": "Some tools that could not fit anywhere else",
   "version": "0.0.1",
   "releasenote": "",
   "contributors": ["wighawag"],
-  "dependencies": {"wighawag-report":""},
+  "dependencies": {"wighawag-report":"0.0.1"},
   "classPath":"src"
 }
